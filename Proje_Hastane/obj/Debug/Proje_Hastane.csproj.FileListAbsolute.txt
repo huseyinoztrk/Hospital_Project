@@ -1,0 +1,48 @@
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDuzenle.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\huseyin.ozturk\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.SuggestedBindingRedirects.cache
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDuzenle.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+D:\C# Projeler\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
